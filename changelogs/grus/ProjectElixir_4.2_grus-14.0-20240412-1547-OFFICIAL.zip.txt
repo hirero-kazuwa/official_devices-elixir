@@ -1,0 +1,4 @@
+- Switch to Pixel Launcher
+- Merge patches from upstream f2fs-stable for Twilight Kernel(f2fs)
+- Fix some known issues
+- Synchronize April Security patch
