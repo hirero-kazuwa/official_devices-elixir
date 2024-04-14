@@ -1,0 +1,5 @@
+- Synced latest Elixir v4.2 changes
+- Shipped with los oss kernel
+- Includes DolbyAtmos,viper,HyperOS Camera
+- Switched to lawnchair launcher
+- Check More changes Here https://github.com/Chaitanyakm/device_xiaomi_sm8450-common
