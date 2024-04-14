@@ -1,0 +1,7 @@
+Project Elixir v4.2 for Realme 6/6i(Indian)/6s/Narzo
+- Synced latest Elixir v4.2 changes
+- April ASB (android-14.0.0_r31)
+- Upstreamed Kernel to v4.14.341 openela
+- Switched to Samar's kernel
+- Compiled kernel with AOSP clang version 17.0.4
+- Misc. Fixes & Improvements
