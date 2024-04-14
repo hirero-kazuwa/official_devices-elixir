@@ -1,0 +1,30 @@
+Elixir 4.2 Changelogs (pdx206)
+
+Based on April 2024 (QPR2) Security Patch
+Switch back to Pixel Launcher
+Use Pico GAPPS
+Upstream powerhal from QPR2
+Build missing powerhal utilities
+Use Hintmanager for HWUI
+Fix Denials related to powerhal
+Include Basic Call Recorder
+Import missing tui hal from stock
+Switch to custom oneplus dolby monet DaxUI
+Rebased dax-default file upon stock for new dms hal (Sounds alot better)
+Addressed daxService denials (Dolby stays on properly now)
+Fix loading Dolby Decoders (AC4 is not supported)
+Added Sony 360 Reality Audio back
+Package name changed of all camera apps (imported from a XDA thread to fix portrait selfie)
+Update PhotoPro to v1.6.A.0.27
+Force 120Hz at low brightness to fix flicker
+Fixed some vibration effects not playing correctly
+Enable 6GHz wifi band
+Switch to TWRP recovery instead of AOSP recovery (Curroption issues due to LOS kernel)
+Switch to LineageOS kernel and fstab
+Declare nodes for Battery information page
+Force 120Hz at low brightness (deal with flickering and colored tint)
+
+> Note: 
+SELinux Enforcing
+GApps are included
+CLEAN FLASH IS MANDATORY!
