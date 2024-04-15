@@ -1,0 +1,13 @@
+Elixir 4.2 Changelogs (haydn/haydnin)
+
+- Based on April 2024 Security Patch
+- Improved Smoothness
+- Improved Touch Responsiveness
+- Added Dobly
+
+Notes:
+
+- SELinux Enforcing
+- Lieca Camera included
+- Gapps Included
+- CLEAN FLASH COMPULSORY
