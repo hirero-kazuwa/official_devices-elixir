@@ -1,0 +1,6 @@
+- Fixed rare camera crash while on prolonged video calls
+- Fixed 8K video recording in stock camera
+- Fixed incoming sms bug
+- Switched to Pixel Launcher
+- Fixed some bugs from previous build
+- Synchronize april security patch
