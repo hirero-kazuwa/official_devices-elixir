@@ -1,0 +1,6 @@
+# 4.2 Changelog | (r5x)
+
+- Initial stable v4.2 Release
+
+Note: 
+- Clean flash is recommended
