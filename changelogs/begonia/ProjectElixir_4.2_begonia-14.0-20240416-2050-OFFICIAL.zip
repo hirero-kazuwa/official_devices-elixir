@@ -1,0 +1,12 @@
+### Project Elixir v4.2 for Redmi Note 8 Pro (begonia) Changelogs ###
+
+- Upstreamed Kernel to v4.14.341-openela 
+- Shifed to Lawnchair Launcher
+- Fixed random BT heaphones disconnections
+- Switched to OSS wpa_supplicant
+- Remove deprecated trust HAL
+- Fixed more untrusted app denials
+- Added google velvet back(ok google fixed)
+- Silence OpenGLRenderer logspam
+- Fixup notification LED capabilities Config Values
+
