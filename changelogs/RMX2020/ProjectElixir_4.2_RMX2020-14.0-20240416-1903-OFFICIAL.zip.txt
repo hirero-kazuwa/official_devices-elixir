@@ -1,0 +1,11 @@
+Project Elixir v4.2 for realme C3/Narzo 10A - monet (RMX2020/RMX2027)
+- Based on April Security Patch
+- Switched to OSS wpa_supplicant
+- Disable connsys core dumping
+- Disabled battery cycle count (*not supported)
+- Silence OpenGLRenderer logspam
+- Switch to common health service
+- Fixed Nightlight issue
+- Increase zram size to 60% 
+- Update AOSP Clang to v18.0.0
+- Misc. Fixes and Under the hood changes
