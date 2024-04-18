@@ -1,0 +1,6 @@
+-fixed some apps was not able to access storage
+-enabled FUSE
+-reduced the size of the zip && switch from full gapps to core
+-updated kernel 
+-removed miuicam (temp)
+-april security patch
