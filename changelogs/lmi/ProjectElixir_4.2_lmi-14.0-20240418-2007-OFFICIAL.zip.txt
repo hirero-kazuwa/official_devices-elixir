@@ -1,0 +1,12 @@
+### Project Elixir for POCO F2 Pro (lmi) Changelogs
+
+### v4.2 POCO F2 Pro (lmi)
+
+- Adapt XiaomiParts to QPR2
+- sepolicy: Replace isolated_app with isolated_app_all
+- switch to Leica Beta 7.2 hotfix 3
+
+### Notes
+- Do CLEAN Install for this update [Due to QPR]
+- Make sure to use V14.0.5.0.SJKCNXM firmware
+- If you are coming from ports or HentaiOS = Format Data and Boot to MIUI first.
