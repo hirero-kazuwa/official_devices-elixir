@@ -1,0 +1,5 @@
+ Changelog April 19th 2024
+-Fixed low mic volume voice recording
+-Lawnchair as default launcher
+-April security patch
+-Smooth AF
