@@ -1,0 +1,10 @@
+### Project Elixir for Realme GT Neo 3T/Q5 Pro RMX3371 Changelogs
+
+### v4.2 RMX3371
+
+- Lawnchair as defualt launcher
+- Some WFD Fixups
+
+Note: 
+SELinux Enforcing
+Encrytpted
