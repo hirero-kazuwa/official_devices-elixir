@@ -130,6 +130,7 @@ Nothing Phone (1) (Spacewar) by NotHarshhaa
 ```
 Google Pixel 2 (walleye) by Asriadi Rahim
 Google Pixel 2XL (taimen) by Asriadi Rahim
+Google Pixel 4a (sunfish) by xioyo
 ```
 
 <!--END_SECTION:devices-->

@@ -1,7 +1,7 @@
 ### Project Elixir for Google Pixel 4a (sunfish) Changelogs ###
 
-- February SP merged
-- Fixed video playback issues
+- April SP merged
+- Battery status information included
 - Misc. Fixes and Improvements
 
 Notes:
