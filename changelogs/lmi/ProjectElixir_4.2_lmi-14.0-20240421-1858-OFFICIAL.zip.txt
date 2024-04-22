@@ -1,0 +1,10 @@
+### Project Elixir for POCO F2 Pro (lmi) Changelogs
+
+### v4.2 Hotfix POCO F2 Pro (lmi)
+
+- switch to previous Leica camera
+
+### Notes
+- Do CLEAN Install for this update [Due to QPR]
+- Make sure to use V14.0.5.0.SJKCNXM firmware
+- If you are coming from ports or HentaiOS = Format Data and Boot to MIUI first.
