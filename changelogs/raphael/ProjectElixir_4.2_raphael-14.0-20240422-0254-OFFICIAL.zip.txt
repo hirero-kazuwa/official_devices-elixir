@@ -1,0 +1,28 @@
+his build you're receiving is ProjectElixir_4.2_raphael-14.0-20240422-0254-OFFICIAL.zip
+
+# v4.2 raphael/in
+- Remove zram fstab
+- Make less cores available for background tasks
+- Silence OpenGLRenderer log spam
+- Clean-Up useless log spam
+- Build android.media.audio.common.types-V2-cpp
+- Update vendor.audio-hal service configuration
+- Clean up libqti-perfd-client
+- Remove obsolete config_keyboardTapVibePattern
+- Use the fragment for QTI vibrator HAL
+- Update vibration settings
+- Drop haptic level adjustment
+- Import qcom-caf thermal HAL
+- Fix battery drain due to statsd
+- Fully drop mi_thermal (It's summertime, so expect complaints about slow charging. Let's drop it.)
+- Parts: Apply layout to parts in system page
+- Enable battery cycle count
+- Update uclamp tune to waffle kernel
+- Adapt waffle kernel for QPR2 changes (69 bpf patches)
+- Switch to android.hardware.usb@1.3-service.dual_role_usb
+- Don't explicitly include updatable_apex.mk
+- Parts: Enable use_resource_processor for all sysui deps
+- Parts: Convert to SwitchPreferenceCompat
+- Parts: Migrate to CompoundButton.OnCheckedChangeListener
+- Add BUILD_BROKEN_INCORRECT_PARTITION_IMAGES
+- Many more fixes and changes here and there
