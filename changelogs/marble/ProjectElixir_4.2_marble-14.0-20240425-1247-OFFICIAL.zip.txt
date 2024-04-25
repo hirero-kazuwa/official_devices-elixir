@@ -1,0 +1,8 @@
+- Synced latest Elixir v4.2 changes
+- Shipped with los oss kernel
+- Includes DolbyAtmos,viper,HyperOS Camera
+- Switched to lawnchair launcher
+- Updated Blobs From V816.0.4.0.ULLMIXM
+- sm8450-common: Do not balance msm_drm and kgsl_3d0 IRQs
+- sm8450-common: Dynamically set IRQ affinity for KGSL and MSM_DRM
+- Check More changes Here https://github.com/Chaitanyakm/device_xiaomi_sm8450-common
