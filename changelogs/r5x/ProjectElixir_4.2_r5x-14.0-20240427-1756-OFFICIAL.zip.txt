@@ -1,0 +1,4 @@
+• improved system stability
+• User Interface Enhancement
+• Fixed some source side bug
+• Fixed some app opening issue
