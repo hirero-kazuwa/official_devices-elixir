@@ -1,0 +1,22 @@
+Elixir 4.2 Changelogs (Spacewar)
+
+Based on April 2024 Security Patch
+Fixed Gylph issues & code improvements
+Updated Lawnchair to Android 14 QPR2
+Added Call recording features
+Enabled camera override format from reserved
+Switched stcok radio stack to BSP
+Imported QCC system_ext blobs
+Update system blobs to NOS 2.5.3
+CTS passed by default
+Some misc improvements and fixes
+
+> Note: 
+SELinux Enforcing
+GApps are included
+Clean Flash Required from A13
+
+> Special Thanks To:
+@Yogesh_champ, @Mr_unkown for testing
+AOSPA Team for Glyph support
+@aswin_a_s for kernel & DT support
