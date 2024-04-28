@@ -1,0 +1,18 @@
+### Project Elixir for Xiaomi SD720G Devices (miatoll) Changelogs
+
+### v4.2 miatoll
+
+- Android Security Patch 2024-04
+- Added Codec2 codecs support
+- Bringup new Dolby Atmos configuration (Cinematic sound experience this time, with more clarity & loudness)
+- Switch back to prebuilt audio
+- fixup! the imbalanced sound output on headphones (For prebuilt audio)
+- fixup! the issue with no audio output if "Google Assistant" remains enabled
+- Import Media configs from `LA.UM.9.1.r1-15500-SMxxx0.QSSI14.0`
+- drop! Miui Camera & shift with Google Camera [This is temporary, will switch back to Miui Camera, once the issue resolved]
+- Added stock Haptic configs.
+- Switch to AOSP poweroff charging animation
+- Improvement in UI (jitter free experience)
+- Update blobs from - gram-V14.0.5.0.SJPINXM & curtana-V14.0.4.0.SJWMIXM
+- Upstream Kernel v4.14.336 --> v4.14.340 `[OpenELA LTS]`
+- Miscelleneous fixes & optimization
