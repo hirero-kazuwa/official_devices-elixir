@@ -1,0 +1,3 @@
+• improved system stability
+• User Interface Enhancement
+• Fixed some source side bug
