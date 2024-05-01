@@ -1,0 +1,10 @@
+Device Changelog:
+- Initial A14 Official Release
+- April Security Patch
+- Fixed Battery Draining 
+- Leica as default camera
+- Switch Kernel To Arise:[Note]-KSU
+
+Note:
+- Gapps Included
+- Firmware Included
