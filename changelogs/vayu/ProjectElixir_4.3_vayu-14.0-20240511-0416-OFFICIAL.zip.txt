@@ -1,0 +1,3 @@
+-updated kernel to v4.14.342
+-merged may security patch
+-(still no miui camera as the dev's busy)
